@@ -10,7 +10,7 @@ I have made a contact form where you can connect me via phone or email, check it
 
 Interested in my professional portfolio or my resume? Check out the links below!
 > Linkedin: https://www.linkedin.com/in/keri-gagnow/
-> Resume: https://kerigagnow.github.io/resume/
+> Resume: https://kerigagnow.github.io/resume
 
 I would love to connect with you! I have an interest in Open Source Software and would love to contribute!
 
