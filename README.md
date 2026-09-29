@@ -1,5 +1,5 @@
 ## neocat @ User
-I am a Computer Science Senior at St. Thomas!  I specalized in Software Development, Software Engineering, Data Analytics and Information Technology to name a few!
+I am a Computer Science Senior at St. Thomas!  I specialize in Software Development, Software Engineering, Data Analytics and Information Technology to name a few!
 
 My current projects include an iOS Habit Tracker app, built using SwiftUI as I've tried all of the apps that's on the app store, so why not custom built an habit tracking app that's built for people like me? 
 
@@ -13,14 +13,13 @@ Not all Computer Science students stay inside all day coding, I enjoy many hobbi
 
 
 ## how to connect with me:
-I have made a contact form where you can connect me via phone or email, check it out here! -> https://kerigagnow.github.io/contact
+You can check out my email from my website: kerigagnow.github.io
 
 ## Other pages:
 
 Interested in my professional portfolio or my resume? Check out the links below!
 > Linkedin: https://www.linkedin.com/in/keri-gagnow/
-> Resume: https://kerigagnow.github.io/resume
 
-I would love to connect with you! I have an interest in Open Source Software and would love to contribute!
+
 
 
