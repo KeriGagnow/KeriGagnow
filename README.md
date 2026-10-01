@@ -1,24 +1,30 @@
-## neocat @ User
-I am a Computer Science Senior at St. Thomas!  I specialize in Software Development, Software Engineering, Data Analytics and Information Technology to name a few!
+## $./About User:
 
-My current projects include an iOS Habit Tracker app, built using SwiftUI as I've tried all of the apps that's on the app store, so why not custom built an habit tracking app that's built for people like me? 
+I am a Computer and Data Science student at the University of St. Thomas, where I combine Data and Software to create solutions for the rapidly growing world. 
 
-I'm also interested in AI/ML! I'm currently planning out an local AI model that helps me plan out meals for school/dinner based on what meal preferences I'm feeling to eat at school or making while at home. The AI model will be 100% machine local, so it will only train on data that you feed it!
+As part of my classwork, I have done research analysis on house market price predictions from 2024 Zillow data, which my group was able to find that a majority of properties across the US was going to trend appreciation for 2025, using JMP 19 Pro and DM/ML techniques.
 
-## Hobbies outside of coding:
-Not all Computer Science students stay inside all day coding, I enjoy many hobbies that I rotate every season change!
-🌸In the Spring/ Summer, I love to go to the outdoors and enjoy a day of fishing and hiking and even week long camping trips, and there is no short of opportunities in the great state of Minnesota!
+I also did research analysis on college students from India who have experienced mental health crisis from academic and family stressors using Principal Component Analysis in R/TidyVerse. My group found that many students experience mental health crisis in college due to extreme pressure from family members to do well in college and academic pressures to maintain high grade marks.
 
-📖 In the Fall and Winter, I love reading a good book with a hot cup of tea 🍵! When it drops to below 20℉, the feeling of reading in a fleece blanket and a good hot drink makes the reading experience very cozy!
+Outside of class, I currently chair the Computer Science Club as Treasurer, where I balance the club's finances and budgets while creating connections and networks with tech alumni and fellow club members. I also am a member of the Association of Women in Science and French Club.
 
 
-## how to connect with me:
-You can check out my email from my website: kerigagnow.github.io
 
-## Other pages:
+## $./Opportunities:
 
-Interested in my professional portfolio or my resume? Check out the links below!
-> Linkedin: https://www.linkedin.com/in/keri-gagnow/
+I will be attending the upcoming Grace Hopper Celebration 2026 in Anaheim, CA as one of the 4 student representatives from St. Thomas. I am heavily looking forward to this opportunity that was given to me by St. Thomas and being able to connect with huge tech companies.
+
+I am currently working on a Python/DB/SQL application where it streamlines budget calculations based off average student attendance from previous semesters. The goal is to reduce time consumption of calculating budget requests for each semester.
+
+
+## $./Contact:
+
+Personal: gagnowkeri@gmail.com
+UST: keri.gagnow@stthomas.edu
+
+You can also send me a LinkedIn message or a network connect request
+
+
 
 
 
