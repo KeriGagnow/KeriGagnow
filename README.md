@@ -12,8 +12,6 @@ Outside of class, I currently chair the Computer Science Club as Treasurer, wher
 
 ## $./Opportunities:
 
-I will be attending the upcoming Grace Hopper Celebration 2026 in Anaheim, CA as one of the 4 student representatives from St. Thomas. I am heavily looking forward to this opportunity that was given to me by St. Thomas and being able to connect with huge tech companies.
-
 I am currently working on a Python/DB/SQL application where it streamlines budget calculations based off average student attendance from previous semesters. The goal is to reduce time consumption of calculating budget requests for each semester.
 
 
